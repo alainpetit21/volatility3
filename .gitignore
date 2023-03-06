@@ -42,3 +42,6 @@ ENV/
 
 # PyTest cache files
 .pytest_cache/
+/.github/
+/data/PhysicalMemory.raw
+/data/out/
